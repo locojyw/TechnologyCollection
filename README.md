@@ -19,3 +19,13 @@
 - Handle详解
  - [浅析Android中的消息机制](http://blog.csdn.net/liuhe688/article/details/6407225)
  - [Android异步消息处理机制完全解析，带你从源码的角度彻底理解](http://blog.csdn.net/guolin_blog/article/details/9991569)
+ - [Handler](http://developer.android.com/reference/android/os/Handler.html)
+ - [Looper](http://developer.android.com/reference/android/os/Looper.html)
+
+ - [Android应用程序线程消息循环模型分析](http://blog.csdn.net/luoshengyang/article/details/6905587)
+ - [Android应用程序消息处理机制（Looper、Handler）分析](http://blog.csdn.net/luoshengyang/article/details/6817933)
+ - [Android的消息队列模型](http://www.cnblogs.com/ghj1976/archive/2011/05/06/2038469.html)
+ - [Android中的Handler, Looper, MessageQueue和Thread](http://www.cnblogs.com/xirihanlin/archive/2011/04/11/2012746.html
+)
+ - [Android中的UI线程与非UI线程](http://www.cnblogs.com/mengdd/p/3418780.html)
+ - [Android的消息循环机制 Looper Handler类分析](http://www.cnblogs.com/mengdd/p/3601294.html)
