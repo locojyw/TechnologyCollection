@@ -27,3 +27,11 @@
  - [Android中的Handler, Looper,MessageQueue和Thread](http://www.cnblogs.com/xirihanlin/archive/2011/04/11/2012746.html)
  - [Android中的UI线程与非UI线程](http://www.cnblogs.com/mengdd/p/3418780.html)
  - [Android的消息循环机制 Looper Handler类分析](http://www.cnblogs.com/mengdd/p/3601294.html)
+- RecyclerView收集
+ - [RecyclerView使用详解（1）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
+ - [RecyclerView使用详解（2）](http://frank-zhu.github.io/android/2015/02/25/android-recyclerview-part-2/)
+ - [RecyclerView使用详解（3）](http://frank-zhu.github.io/android/2015/02/26/android-recyclerview-part-3/)
+
+##github上优秀的Android开源项目
+- [ViewPagerIndicator，用来进行页面切换](https://github.com/JakeWharton/ViewPagerIndicator)
+- [常用的异步请求框架 android-async-http](https://github.com/loopj/android-async-http)
