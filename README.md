@@ -35,3 +35,4 @@
 ##github上优秀的Android开源项目
 - [ViewPagerIndicator，用来进行页面切换](https://github.com/JakeWharton/ViewPagerIndicator)
 - [常用的异步请求框架 android-async-http](https://github.com/loopj/android-async-http)
+- [MaterialEditText](https://github.com/rengwuxian/MaterialEditText)[用法](http://www.rengwuxian.com/post/materialedittext)
