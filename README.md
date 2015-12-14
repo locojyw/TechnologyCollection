@@ -31,7 +31,11 @@
  - [RecyclerView使用详解（1）](http://frank-zhu.github.io/android/2015/01/16/android-recyclerview-part-1/)
  - [RecyclerView使用详解（2）](http://frank-zhu.github.io/android/2015/02/25/android-recyclerview-part-2/)
  - [RecyclerView使用详解（3）](http://frank-zhu.github.io/android/2015/02/26/android-recyclerview-part-3/)
-
+-  Android内存管理
+ - [Android内存管理、监测剖析](http://blog.csdn.net/anlegor/article/details/23398785)
+ - [lowmemorykiller.c](https://android.googlesource.com/kernel/msm/+/android-6.0.1_r0.9/drivers/staging/android/lowmemorykiller.c)
+ - [ashmem.c](https://android.googlesource.com/kernel/common.git/+/android-3.4/drivers/staging/android/ashmem.c)
+ - [pmem.c](https://android.googlesource.com/kernel/msm.git/+/511b239792d76efc7456ef92735a1257c95eac44/drivers/misc/pmem.c)
 ##github上优秀的Android开源项目
 - [ViewPagerIndicator，用来进行页面切换](https://github.com/JakeWharton/ViewPagerIndicator)
 - [常用的异步请求框架 android-async-http](https://github.com/loopj/android-async-http)
