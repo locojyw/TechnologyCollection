@@ -41,3 +41,8 @@
 - [ViewPagerIndicator，用来进行页面切换](https://github.com/JakeWharton/ViewPagerIndicator)
 - [常用的异步请求框架 android-async-http](https://github.com/loopj/android-async-http)
 - [MaterialEditText](https://github.com/rengwuxian/MaterialEditText)[用法](http://www.rengwuxian.com/post/materialedittext)
+
+##android kernel 
+-  内存管理分析
+ - [伙伴系统分析](http://blog.csdn.net/kris_fei/article/details/8768783?utm_source=tuicool&utm_medium=referral)
+ - [《Linux内核设计与实现》读书笔记（十二）- 内存管理](http://www.cnblogs.com/wang_yb/archive/2013/05/23/3095907.html)
