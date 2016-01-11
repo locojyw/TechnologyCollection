@@ -46,3 +46,4 @@
 -  内存管理分析
  - [伙伴系统分析](http://blog.csdn.net/kris_fei/article/details/8768783?utm_source=tuicool&utm_medium=referral)
  - [《Linux内核设计与实现》读书笔记（十二）- 内存管理](http://www.cnblogs.com/wang_yb/archive/2013/05/23/3095907.html)
+ - [Linux伙伴系统 ](http://blog.chinaunix.net/uid-20321537-id-3478820.html)
